@@ -1,7 +1,13 @@
+![Header](./[(https://github.com/Bhabani-DA/Bhabani-DA/blob/main/github-header-image.png)])
+
+
+
 ## Hi there! 👋 I'm Bhabani
 
 🔍 Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
 Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden insights and transforming raw data into meaningful stories. Whether it's data visualization or statistical analysis, I'm always eager to explore and innovate.
+
+---
 
 ### 🚀 About Me
 
@@ -12,6 +18,7 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden 
 - 🤝 Open to collaboration on data-driven projects!  
 <!-- 🌱 Currently working on [insert your latest project here]. -->
 
+---
 
 ### 🛠️ Tech & Tools
 
@@ -20,24 +27,33 @@ SQL
 Power BI  
 Excel
 
+---
+
 ### 📊 Projects
 
+### [Hotel Booking Cancellation Analysis](https://github.com/Bhabani-DA/Hotel-Booking-Cancellation-Data-Analysis)
+- Explored hotel booking cancellations to uncover key predictors like price sensitivity, lead time, and booking channels using Python and data visualization.  
+- Delivered actionable insights and strategic recommendations to reduce cancellations and improve hotel revenue through targeted retention and dynamic pricing.  
+
+
 #### [Shopify Sale Data Analysis](https://github.com/Bhabani-DA/Shopify-Sale-Data-Analysis)  
-•	Built an interactive KPI dashboard, analyzing sales performance, customer behavior, and retention for data-driven decisions.  
-•	Designed dynamic visualizations and selectors, tracking regional trends, payment preferences, and product engagement efficiently.  
+-	Built an interactive KPI dashboard, analyzing sales performance, customer behavior, and retention for data-driven decisions.  
+-	Designed dynamic visualizations and selectors, tracking regional trends, payment preferences, and product engagement efficiently.  
 
 #### [Pizza Hut Sale Data Analysis](https://github.com/Bhabani-DA/Pizza-Hut-Sale-Data-Analysis)
-•	Performed SQL-based sales analysis, tracking pizza order trends, revenue, and customer behavior to optimize pricing and menu strategies.  
-•	Developed advanced SQL queries, analyzing cumulative revenue, top-selling pizza categories, and peak order times for better profitability.
+-	Performed SQL-based sales analysis, tracking pizza order trends, revenue, and customer behavior to optimize pricing and menu strategies.  
+-	Developed advanced SQL queries, analyzing cumulative revenue, top-selling pizza categories, and peak order times for better profitability.
 
 #### [FNP Sale Data Analysis](https://github.com/Bhabani-DA/FNP-Sala-Data-Analysis)
-•	Developed an interactive sales dashboard in MS Excel, leveraging Power Query and data modelling for KPI tracking and dynamic insights.  
-•	Analyzed seasonal trends and customer behaviors, identifying peak festive demand, top-selling products, and high-order cities.
+-	Developed an interactive sales dashboard in MS Excel, leveraging Power Query and data modelling for KPI tracking and dynamic insights.  
+-	Analyzed seasonal trends and customer behaviors, identifying peak festive demand, top-selling products, and high-order cities.
 
 
 
 
 <!--### 📈 GitHub Stats GitHub Stats -->
+
+---
 
 ### 📬 Let's Connect!
 
