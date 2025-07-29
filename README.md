@@ -3,7 +3,7 @@
 
 
 
-🔍 Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
+🔍 Aspiring Data Analyst | 📊 Insight Enthusiast | 🔢 Number Cruncher  
 Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden insights and transforming raw data into meaningful stories. Whether it's data visualization or statistical analysis, I'm always eager to explore and innovate.
 
 ---
