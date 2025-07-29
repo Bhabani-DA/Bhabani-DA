@@ -21,10 +21,11 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves uncovering hidden 
 
 ### 🛠️ Tech & Tools
 
-Python  
-SQL  
-Power BI  
-Excel
+- Python  
+- Microsoft SQL Server  
+- Microsoft Power BI  
+- Microsoft Excel
+- Numpy, Pandas, Matplotlib, Seaborn
 
 ---
 
