@@ -1,4 +1,4 @@
-![Header](./[(https://github.com/Bhabani-DA/Bhabani-DA/blob/main/github-header-image.png)])
+![Header](https://github.com/Bhabani-DA/Bhabani-DA/blob/main/github-header-image.png)
 
 
 
@@ -31,7 +31,7 @@ Excel
 
 ### 📊 Projects
 
-### [Hotel Booking Cancellation Analysis](https://github.com/Bhabani-DA/Hotel-Booking-Cancellation-Data-Analysis)
+#### [Hotel Booking Cancellation Analysis](https://github.com/Bhabani-DA/Hotel-Booking-Cancellation-Data-Analysis)
 - Explored hotel booking cancellations to uncover key predictors like price sensitivity, lead time, and booking channels using Python and data visualization.  
 - Delivered actionable insights and strategic recommendations to reduce cancellations and improve hotel revenue through targeted retention and dynamic pricing.  
 
